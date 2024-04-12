@@ -23,4 +23,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Tutorial link
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OaDyjB9Ib8?si=qER10x3ZMoDlaBpv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/0OaDyjB9Ib8/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBpaiWopsAdSb0VKGPEbZeKrXUzpw)](https://www.youtube.com/watch?v=0OaDyjB9Ib8&ab_channel=CodeWithAntonio)
